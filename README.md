@@ -8,7 +8,7 @@ Every Question file present src Folder
 
  
 
-## Q1 Write a program to reverse an array or string
+# Q1 Write a program to reverse an array or string
 
 Given an array (or string), the task is to reverse the array/string.
  Examples :
@@ -19,7 +19,7 @@ Given an array (or string), the task is to reverse the array/string.
  ![Logo](./ProgramSS/Solution1.jpg)
 
 
- ## Q2 Maximum and minimum of an array using minimum number of comparisons
+ # Q2 Maximum and minimum of an array using minimum number of comparisons
  Given an array of size N. The task is to find the maximum and the minimum element of the array using the minimum number of comparisons.
   - `Examples`:
   - `Input`: arr[] = {3, 5, 4, 1, 9}
