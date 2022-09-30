@@ -1,8 +1,10 @@
 import EveryDay.Question1;
+import HackerRank.JavaStringsIntroduction;
 public class App {
     public static void main(String[] args) throws Exception {
-        Question1 obj = new Question1();
-        System.out.println(obj.reverseWord("Rishabh"));
+        JavaStringsIntroduction obj = new JavaStringsIntroduction();
+        obj.name();
+        
         
     }
 }
