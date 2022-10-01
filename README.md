@@ -35,6 +35,8 @@ Given an array (or string), the task is to reverse the array/string.
  ## My Solution 1 Using Linear search
  ![Logo](./ProgramSS/Solution2.jpg)
  ## My Solution 2
+ In this Solution i used `tournament method` 
+ - ![Logo](./ProgramSS/Solution3.png)
 
 
 
