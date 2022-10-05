@@ -1,4 +1,4 @@
-package Day2;
+package Day_2_Maximum_and_minimum_of_an_array;
 class pair  
 {  
     long first, second;  

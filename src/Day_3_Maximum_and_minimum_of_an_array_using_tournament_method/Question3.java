@@ -1,6 +1,7 @@
-package Day3;
+package Day_3_Maximum_and_minimum_of_an_array_using_tournament_method;
 
-public class Question2Sol2 {
+public class Question3
+ {
     static class Pair {
         int min, max;
     }

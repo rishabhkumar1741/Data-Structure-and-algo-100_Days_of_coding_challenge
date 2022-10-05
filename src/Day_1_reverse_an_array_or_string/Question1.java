@@ -1,4 +1,4 @@
-package Day1;
+package Day_1_reverse_an_array_or_string;
 
 public class Question1 {
 

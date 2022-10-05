@@ -1,6 +1,6 @@
-package Day6;
+package Day_6_Sort_an_array_of_0s_1s_and_2s;
 
-import java.util.*;
+
 
 public class Question6 {
 

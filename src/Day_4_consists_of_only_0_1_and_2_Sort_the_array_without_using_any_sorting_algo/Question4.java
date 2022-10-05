@@ -1,4 +1,4 @@
-package Day4;
+package Day_4_consists_of_only_0_1_and_2_Sort_the_array_without_using_any_sorting_algo;
 
 public class Question4 {
     public static void sort012(int a[], int n)

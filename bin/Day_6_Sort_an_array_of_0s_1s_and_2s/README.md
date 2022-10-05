@@ -6,3 +6,6 @@
    - `Output`: 0 0 1 2 2
 ## My Solution 2 Using Pointer Approach:
  ![Logo](/ProgramSS/Solution6.jpg)
+
+
+ Sort_an_array_of_0s_1s_and_2s

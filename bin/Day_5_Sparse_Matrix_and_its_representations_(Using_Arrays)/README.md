@@ -7,3 +7,6 @@
 - `0 2 6 0 0`
 ## My Solution
  ![Logo](/ProgramSS/Solution5.jpg)
+
+
+ 
