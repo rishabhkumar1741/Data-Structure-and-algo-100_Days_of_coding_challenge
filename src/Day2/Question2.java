@@ -1,4 +1,4 @@
-package EveryDay;
+package Day2;
 class pair  
 {  
     long first, second;  

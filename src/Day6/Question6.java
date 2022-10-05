@@ -1,4 +1,4 @@
-package EveryDay;
+package Day6;
 
 import java.util.*;
 

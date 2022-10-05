@@ -1,4 +1,4 @@
-package EveryDay;
+package Day4;
 
 public class Question4 {
     public static void sort012(int a[], int n)

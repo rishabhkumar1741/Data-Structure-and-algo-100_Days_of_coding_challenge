@@ -1,4 +1,4 @@
-package EveryDay;
+package Day1;
 
 public class Question1 {
 
@@ -8,6 +8,9 @@ public class Question1 {
             newString = newString + str.charAt(i);
         }
         return newString;
+    }
+    public static void main(String[] args) {
+        
     }
 
    

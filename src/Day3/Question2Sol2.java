@@ -1,4 +1,4 @@
-package EveryDay;
+package Day3;
 
 public class Question2Sol2 {
     static class Pair {

@@ -1,9 +1,8 @@
-import EveryDay.Question1;
-import HackerRank.JavaStringsIntroduction;
+import Day1.Question1;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        JavaStringsIntroduction obj = new JavaStringsIntroduction();
-        obj.name();
+       
         
         
     }
