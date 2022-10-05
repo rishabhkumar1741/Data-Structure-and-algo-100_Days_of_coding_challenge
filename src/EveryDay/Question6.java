@@ -1,14 +1,17 @@
 package EveryDay;
 
-import java.util.Scanner;
-
-import javax.swing.text.Position;
-
 import java.util.*;
 
 public class Question6 {
 
 	public static void pointerApproach(int arr[], int size) {
+		System.out.println("Before shorting");
+		for (int x : arr) {
+			System.out.print(x + " ");
+		}
+		System.out.println();
+
+
 		int low = 0;
 		int high = size;
 		int mid = 0;
@@ -36,6 +39,7 @@ public class Question6 {
 				}
 			}
 		}
+		System.out.println("After shorting");
 		for (int x : arr) {
 			System.out.print(x + " ");
 		}
@@ -43,7 +47,7 @@ public class Question6 {
 	}
 
 	public static void main(String[] args) {
-		int arr[] = new int[] { 0, 1, 2, 0, 1, 2 };
+		int arr[] = new int[] { 0, 1, 2, 0, 1, 2,2,0,0};
 		int size = arr.length - 1;
 		pointerApproach(arr, size);
 
