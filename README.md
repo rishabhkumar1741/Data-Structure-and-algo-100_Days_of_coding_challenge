@@ -9,6 +9,9 @@ Every Question file present src Folder
 -  All the files of my DSA solutions are present in everyday folder within src Folder.
 Welcome to my solution mates ;-)
 
+
+
+
  
 
 # Q1 Write a program to reverse an array or string
@@ -66,6 +69,8 @@ into ascending order.
    - `Output`: 0 0 1 2 2
 ## My Solution 2 Using Pointer Approach:
  ![Logo](./ProgramSS/Solution6.jpg)
+
+ # Q7 Move all negative numbers to beginning and positive to end with constant extra space
 
 
 
