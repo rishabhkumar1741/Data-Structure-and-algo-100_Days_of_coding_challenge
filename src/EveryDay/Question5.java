@@ -15,7 +15,7 @@ class SparceArray {
 
     }
 
-    private boolean checkArray(int arr[][]) {
+    private int checkArray(int arr[][]) {
         int zero = 0;
         int nonzero = 0;
         for (int i = 0; i < x; i++) {
@@ -30,33 +30,33 @@ class SparceArray {
         if (nonzero > zero) {
             System.out.println("this is not a sparce Matrix because non zero element is more then the zero");
             Arrays.fill(arr, 0);
-            return false;
+            return -1;
 
         }
-        return true;
+        return 1;
     }
 
     public void insert() {
         Scanner sc = new Scanner(System.in);
+
         for (int i = 0; i < x; i++) {
             for (int j = 0; j < y; j++) {
                 System.out.println("Enter " + i + "" + j + "element");
                 arr[i][j] = sc.nextInt();
             }
         }
-        if (checkArray(arr)) {
+        if (checkArray(arr) == 1) {
             System.out.println("Sparce matrix is created ");
-        } else {
-            for (int i = 0; i < x; i++) {
-                for (int j = 0; j < y; j++) {
 
-                    arr[i][j] = 0;
-                }
-            }
         }
-    }
+      
+
+    }   
 
     public void deleteElement(int x, int y) {
+        if(x>this.x||y>this.y){
+            System.out.println("Index out of Rang");
+        }
         if (arr[x][y] != 0) {
             arr[x][y] = 0;
             System.out.println("Element is deleted");
@@ -94,7 +94,9 @@ public class Question5 {
         choose = sc.nextInt();
         while (choose != 5) {
             if (choose == 1) {
+
                 sparceArray.insert();
+
             } else if (choose == 2) {
                 System.out.println("Enter the locaion u want to delete");
                 int x = sc.nextInt();

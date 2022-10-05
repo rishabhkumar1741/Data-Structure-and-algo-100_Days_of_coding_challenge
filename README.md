@@ -48,6 +48,24 @@ Given an array (or string), the task is to reverse the array/string.
 into ascending order.
  ## My Solution
  ![Logo](./ProgramSS/Solution4.jpg)
+ # Q5 Sparse Matrix and its representations (Using Arrays)
+ A matrix is a two-dimensional data object made of m rows and n columns, therefore having total m x n values. If most of the elements of the matrix have 0 value, then it is called a sparse matrix.
+ - `Example: `
+ - `0 0 3 0 4  `          
+ - `0 0 5 7 0`
+- `0 0 0 0 0`
+- `0 2 6 0 0`
+## My Solution
+ ![Logo](./ProgramSS/Solution5.jpg)
+
+ # Q6 Sort an array of 0s, 1s and 2s | Dutch National Flag problem
+ ### In This question I am using the Pointer Approach: 
+ - `Examples`:
+   - `Input`: N = 5 
+   - `arr[]`= {0 2 1 2 0}
+   - `Output`: 0 0 1 2 2
+
+
 
 
 
