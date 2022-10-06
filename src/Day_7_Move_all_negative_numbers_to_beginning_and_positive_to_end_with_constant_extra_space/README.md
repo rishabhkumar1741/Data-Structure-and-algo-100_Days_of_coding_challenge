@@ -35,6 +35,15 @@ where we simply take two variables like left and right which hold the 0 and N-1 
 - Print the array
 
 
+## Time and Space Complexity
+
+
+
+```bash
+Time Complexity: O(N)
+Auxiliary Space: O(1)
+```
+
 ## Screenshots
 
 ![Solution Screenshot](/ProgramSS/Solution7.jpg)
