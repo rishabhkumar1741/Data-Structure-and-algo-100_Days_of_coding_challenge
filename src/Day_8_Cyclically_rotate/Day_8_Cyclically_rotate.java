@@ -1,6 +1,6 @@
 package Day_8_Cyclically_rotate;
 
-public class Day_8 {
+public class Day_8_Cyclically_rotate {
     public static void rotate(int arr[], int n)
     {
         int arr1[] = new int[n];
