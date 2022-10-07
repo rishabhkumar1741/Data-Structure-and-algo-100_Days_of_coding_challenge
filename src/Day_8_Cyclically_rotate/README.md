@@ -1,5 +1,5 @@
 
-# Day 7 Question
+# Day 8 Question
 Write a program to cyclically rotate an array by one.
 
 
