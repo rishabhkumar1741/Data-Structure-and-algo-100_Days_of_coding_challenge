@@ -6,7 +6,7 @@ Given a string, , and an integer, , complete the function so that it finds the l
 ## Question Description
 Explanation 0
 String s = "welcometojava"   has the following lexicographically-ordered substrings of length : k= 3
-- ["ava",  "com","elc","eto","jav","lco","met","oja","ome","toj","wel"]
+ - ["ava",  "com","elc","eto","jav","lco","met","oja","ome","toj","wel"]
 
 ### Returns
 
