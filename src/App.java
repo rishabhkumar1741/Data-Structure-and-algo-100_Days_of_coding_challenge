@@ -1,19 +1,8 @@
-
-
-
-// import Day_13_Singly_LinkList.Rishabh;
-
-
-
+import java.util.ArrayList;
 public class App {
-    
- 
-    
-    public static void main(String[] args) {   
+    public static void main(String[] args) {  
         
-       
-        
-        
+
     }
 }
 
