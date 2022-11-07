@@ -43,9 +43,7 @@ union set of both arrays. So count is 7.
 
 
 
-# Explanation:
-3rd smallest element in the given 
-array is 7.
+
 
 
 # Constraints:
