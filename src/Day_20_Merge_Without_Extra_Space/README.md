@@ -58,7 +58,7 @@ Expected Auxilliary Space: O(1)
 
 ## Screenshots
 
-![Solution Screenshot](/ProgramSS/Solution20.PNG)
+![Solution Screenshot](/ProgramSS/Solution20.png)
 
 
 
