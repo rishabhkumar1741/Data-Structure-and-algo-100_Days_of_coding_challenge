@@ -32,8 +32,8 @@ Output: Sum found between indexes 0 and 2
 
 
 # Time And space Complexity
-Expected Time Complexity:  O(1)
-Expected Auxilliary Space: O(n)
+- Expected Time Complexity:  O(1)
+- Expected Auxilliary Space: O(n)
 
 
 ## Screenshots
