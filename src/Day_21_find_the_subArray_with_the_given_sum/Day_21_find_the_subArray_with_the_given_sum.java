@@ -7,7 +7,7 @@ public class Day_21_find_the_subArray_with_the_given_sum {
         int cursumm=0;
         int start=0;
         int end=-1;
-        int sum =5;
+        int sum =20;
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int i=0;i<arr.length;i++)
         {
