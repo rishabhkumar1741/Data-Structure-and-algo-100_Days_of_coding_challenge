@@ -96,7 +96,7 @@ public class DAY_23_Infix_to_prefix {
     }
 
     public static void main(String[] args) {
-        String prefix = "(a-b/c)*(a/k-l)";
+        String prefix = "(2-3/c)*(a/k-l)";
         DAY_23_Infix_to_prefix obj = new DAY_23_Infix_to_prefix();
         System.out.println(obj.infixtoprefix(prefix));
 
