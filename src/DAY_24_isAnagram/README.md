@@ -19,7 +19,7 @@ boolean: If a and b are case-insensitive anagrams, return true. Otherwise, retur
 - Anagrams
 
 # Explanation:
-The two strings don't contain the same number of a's and m's, so we print "Not Anagrams".
+The two strings contain all the same letters in the same frequencies, so we print "Anagrams"
 
 # Sample Input 2  :
 - Hello
