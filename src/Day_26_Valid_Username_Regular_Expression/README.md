@@ -1,35 +1,37 @@
 
-# Day 25 Question
-Pattern Syntax Checker
+# Day 26 Question
+You are updating the username policy on your company's internal networking platform. According to the policy, a username is considered valid if all the following constraints are satisfied:
+
+- The username consists of 8 to 30 characters inclusive. If the username consists of less than 8 or 30 greater than  characters, then it is an invalid username.
+- The username can only contain alphanumeric characters and underscores (_). Alphanumeric characters describe the character set consisting of lowercase characters[a-z] , uppercase characters[A-Z] , and digits[0-9] .
+- The first character of the username must be an alphabetic character, i.e., either lowercase character  or uppercase character [A-Z].
 
 
-## Question Description
-Using Regex, we can easily match or search for patterns in a text. Before searching for a pattern, we have to specify one using some well-defined syntax.
-In this problem, you are given a pattern. You have to check whether the syntax of the given pattern is valid.
-
-
-# input format
-The first line of input contains an integer , denoting the number of test cases. The next  lines contain a string of any printable characters representing the pattern of a regex.
-
-# output format
-Output Format
-For each test case, print Valid if the syntax of the given pattern is correct. Otherwise, print Invalid. Do not print the quotes.
 
 # Input
-- 3
-- ([A-Z])(.+)
-- [AZ[a-z](a-z)
-batcatpat(nat
+- 8
+- Julia
+- Samantha
+- Samantha_21
+- 1Samantha
+- Samantha?10_2A
+- JuliaZ007
+- Julia@007
+- _Julia007
+- batcatpat(nat
 # output
+- Invalid
+- Valid
+- Valid
+- Invalid
+- Invalid
 - Valid
 - Invalid
 - Invalid
 
 
 
-
-
 ## Screenshots
 
-![Solution Screenshot](/ProgramSS/Solution25.png)
+![Solution Screenshot](/ProgramSS/Solution26.png)
 
