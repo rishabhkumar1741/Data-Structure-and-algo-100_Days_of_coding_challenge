@@ -1,27 +1,27 @@
 
-# Day 21 Question
-### Find the SubArray with the given sum 
+# Day 29 Question
+### Selection Sort Algorithm
 
 
 
-## Question Description
-Given an array arr[] of  integers and an integer sum, find a subarray that addition is equal to a given sum.
+The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from the unsorted part and putting it at the beginning. 
 
+The algorithm maintains two subarrays in a given array.
+
+The subarray which already sorted. 
+The remaining subarray was unsorted.
+In every iteration of the selection sort, the minimum element (considering ascending order) from the unsorted subarray is picked and moved to the sorted subarray.
 
 
 ## Example 1:
 
 
 ````
-Input: arr[]  = {10,15,-5,15,-10,5};, sum = 5
-Output: Sum found between indexes 3 and 4
+Input => arr[] = {64, 25, 12, 22, 11}
+
+Output =>  11  12  22  25  64 
 
 ````
-## Example 2:
-````
-Input: arr[]  = {10,15,-5,15,-10,5};, sum = 20
-Output: Sum found between indexes 0 and 2
-````
 
 
 
@@ -30,15 +30,11 @@ Output: Sum found between indexes 0 and 2
 
 
 
-
-# Time And space Complexity
-- Expected Time Complexity:  O(1)
-- Expected Auxilliary Space: O(n)
 
 
 ## Screenshots
 
-![Solution Screenshot](/ProgramSS/Solution21.png)
+![Solution Screenshot](/ProgramSS/Solution29.png)
 
 
 
