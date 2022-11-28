@@ -1,16 +1,22 @@
-import javax.swing.*;  
-public class App
- {  
-public static void main(String[] args) {  
-JFrame f=new JFrame();//creating instance of JFrame  
-          
-JButton b=new JButton("click");//creating instance of JButton  
-b.setBounds(130,100,100, 40);//x axis, y axis, width, height  
-          
-f.add(b);//adding button in JFrame  
-          
-f.setSize(400,500);//400 width and 500 height  
-f.setLayout(null);//using no layout managers  
-f.setVisible(true);//making the frame visible  
-}  
-} 
+class A {
+    A() {
+    System.out.println("Inside A's constructor.");
+    }
+    }
+    // Create a subclass by extending class A.
+    class B extends A {
+    B() {
+    System.out.println("Inside B's constructor.");
+    }
+    }
+    // Create another subclass by extending B.
+    class C extends B {
+    C() {
+    System.out.println("Inside C's constructor.");
+    }
+    }
+    class App {
+    public static void main(String args[]) {
+    C c = new C();
+    }
+    }

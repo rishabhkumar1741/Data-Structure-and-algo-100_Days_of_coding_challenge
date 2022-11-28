@@ -1,4 +1,5 @@
 package Day_27_Merge_sort;
+import java.util.*;;
 
 public class Day_27_Merge_sort {
     public static void divide(int arr[],int start,int end)
@@ -51,10 +52,16 @@ public class Day_27_Merge_sort {
 
 
 
-    public static void main(String[] args) {
-        int arr[] = {6,3,9,5,2,8};
-        int n = arr.length;
-        divide(arr, 0, n-1);
+    public static void main(String[] args) {int arr[] ;
+        System.out.println("Enter the size of array");
+        Scanner sc = new Scanner(System.in);
+        int size = sc.nextInt();
+        arr = new int[size];
+        System.out.println("Enter the element");
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = sc.nextInt();            
+        }
+        divide(arr, 0, size-1);
      
         for (int i : arr) {
             System.out.print(i+" ");
