@@ -8,7 +8,8 @@ Heap sort is a comparison-based sorting technique based on Binary Heap data stru
 
 ````
 int arr[] = { 12, 11, 13, 5, 6, 7 };
-Ans =>  5 6 7 ````
+Ans =>  5 6 7 11 12 13
+````
 
 
 
