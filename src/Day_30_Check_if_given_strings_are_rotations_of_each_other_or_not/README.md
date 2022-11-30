@@ -1,5 +1,5 @@
 
-# Day 37   Check if given strings are rotations of each other or not
+# Day 30   Check if given strings are rotations of each other or not
 
 
 ## Example 1:
