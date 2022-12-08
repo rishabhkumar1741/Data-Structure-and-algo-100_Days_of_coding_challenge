@@ -35,13 +35,3 @@ R----23
 
 
 
-## Screenshots
-
-![Solution Screenshot](/ProgramSS/Solution34.png)
-
-
-
-
-
-
-
