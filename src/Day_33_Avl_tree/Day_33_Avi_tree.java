@@ -172,7 +172,7 @@ class Node {
       }
     }
   
-    // Driver code
+
     public static void main(String[] args) {
     Day_33_Avi_tree tree = new Day_33_Avi_tree();
       tree.root = tree.insertNode(tree.root, 3);
