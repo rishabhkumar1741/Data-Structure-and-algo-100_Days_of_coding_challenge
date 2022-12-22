@@ -25,9 +25,6 @@ output=>    a h
 
 
 
-## Screenshots
-
-![Solution Screenshot](/ProgramSS/Solution35.png)
 
 
 

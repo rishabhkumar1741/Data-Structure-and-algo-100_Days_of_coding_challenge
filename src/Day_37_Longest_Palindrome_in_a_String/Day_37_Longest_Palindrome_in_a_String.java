@@ -27,7 +27,7 @@ public class Day_37_Longest_Palindrome_in_a_String {
     }
     public static void main(String[] args) {
         String str = "Rishabh";
-        System.out.println("runnnnnn");
+        
         System.out.println(str.substring(0,1));
         
     }
