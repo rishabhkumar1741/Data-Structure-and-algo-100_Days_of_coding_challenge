@@ -2,10 +2,16 @@ import java.util.*;;
 public class App {
   
     public static void main(String args[]) {
-        HashMap<Character,Character> obj = new HashMap<>();
-        obj.put('a', 'b');
-        System.out.println(obj.containsKey('a'));System.out.println(obj);
-        System.out.println(obj.get('a'));
+        String sentence = "Rishabh";
+        char start= 'a';
+        int count=0;
+        char chararr[] = sentence.toCharArray();
+        Arrays.sort(chararr);
+        String newdata = new String(chararr);
+        System.out.println(newdata);
+
+       
+       
         
     }
 
