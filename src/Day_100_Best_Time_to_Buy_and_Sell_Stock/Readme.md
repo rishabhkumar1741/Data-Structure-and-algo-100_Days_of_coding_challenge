@@ -40,7 +40,7 @@ Constraints:
 
 ## Screenshots
 
-![Solution Screenshot](/ProgramSS/Solution99.png)
+![Solution Screenshot](/ProgramSS/Solution100.png)
 
 
 
