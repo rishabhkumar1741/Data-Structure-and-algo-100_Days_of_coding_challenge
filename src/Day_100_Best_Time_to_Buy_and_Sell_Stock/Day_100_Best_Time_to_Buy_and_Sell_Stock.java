@@ -28,6 +28,9 @@ class Solution {
     }
 }
 
-public class Day_100_Best_Time_to_Buy_and_Sell_Stock {
+public class Day_100_Best_Time_to_Buy_and_Sell_Stock  {
+    public static void main(String[] args) {
+        
+    }
     
 }
