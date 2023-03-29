@@ -1,5 +1,5 @@
 
-# Day 76 Check if the Sentence Is Pangram
+# Day 77 Check if the Sentence Is Pangram
 
 A pangram is a sentence where every letter of the English alphabet appears at least once.
 

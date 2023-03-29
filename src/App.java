@@ -1,13 +1,33 @@
-import java.util.*;;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Stack;
+import java.util.*;
 public class App {
-  
-    public static void main(String args[]) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        arr.add(1);
-        System.out.println(arr.get(0));
-       
-       
-        
-    }
+  // private int i;
 
-} 
+  // App() {
+
+  // }
+
+  // App(int x) {
+  //   this.i = x;
+  // }
+
+  // public int getValue() {
+  //   return this.i;
+  // }
+
+  // public void setValue(int x) {
+  //   this.i = x;
+  // }
+
+  // @Override
+  // public String toString() {
+  //   return Integer.toString(i);
+  // }
+
+  public static void main(String[] args) { 
+    System.out.println("rishabh");
+    
+  }
+}

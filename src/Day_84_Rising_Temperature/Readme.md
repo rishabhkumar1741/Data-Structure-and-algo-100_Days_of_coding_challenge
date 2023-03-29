@@ -1,5 +1,5 @@
 
-# Day 84 Delete Duplicate Emails
+# Day 84 Rising Temperature
 
 ````
 Table: Weather
