@@ -34,11 +34,12 @@ Constraints:
 0 <= prices[i] <= 104
 
 ```
-
-
+# Time To Become Rich
+![Solution Screenshot](/ProgramSS/money.png)
 
 
 ## Screenshots
+
 
 ![Solution Screenshot](/ProgramSS/Solution100.png)
 
